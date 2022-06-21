@@ -1,2 +1,1 @@
-My first readme
-This will be my first pull request.
+My first readme and so far the coding is going well.
